@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding:0; 
+}
+div{
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background: #000000 ;
+    font-family: Arial;
+}
+
+.main{
+    background-color: white;
+    height: 1604.400px;
+    width: 1170px;
+    border: .5px black solid;
+    margin: auto;
+}
+.navbar{
+    height: 40px;
+    width: 100%;
+    background-color: #343130;
+}
+.left-cont{
+    height: 40px;
+    width: 583px;
+   background-color: red;
+   float: left;
+}
+.right-cont{
+    height: 100%;
+    width: 583px;
+    background-color: aquamarine;
+    float: right;
+}
+.menubar{
+    height: 140px;
+    width: 100%;
+    /* background-color: rgb(97, 63, 22); */
+}
+
+.sidepic{
+    width: 165px;
+    background-color: rgb(4, 5, 5);
+    height: 140px;
+    float: left;
+}
+
+.menu-bar{
+    width: 900px;
+    height: 140px;
+    float: right;
+    background-color: blue;
+}
+
+.middle-container{
+    width: 1130px;
+    height: 735px;
+    background-color: bisque;
+    border: 20px #f1f0ef solid;
+}
+
+.left-side-container{
+    width: 280px;
+    height: 100%;
+    background-color: red;
+    float: left;
+}
+
+.right-side-container{
+    width: 830px;
+    height: 100%;
+    background-color: #343130;
+    float: right;
+}
+
+.banner{
+    width: 830px;
+    height: 440px;
+    background-color: aquamarine;
+    /* position: relative; */
+}
+.mySlides{
+        height: 440px;
+        width: 830px;
+        position: relative;
+        
+}
+.btn{
+    width: 10px;
+    height: 15px;
+    position: absolute;
+    
+}
+
+.course-container{
+        width: 99%;
+        height: 270px;
+}
+.work-heading{
+    width: 100%;
+    height: 34.400px;
+    padding: 20px 0px  15px 0px;
+    background-color: aqua;
+}
+
+.work-container{
+    width: 1110px;
+    height: 220px;
+    background-color: black;
+    margin: 0px 30px 20px 30px;
+}
+
+.bottom-img1{
+    width: 270px;
+    float: left;
+    height: 150px;
+    padding-top: 70px;
+    background-color: antiquewhite;
+    margin-right: 10px;
+}
+.bottom-img2{
+    float: left;
+    padding-top: 70px;
+    width: 270px;
+    height: 150px;
+    background-color: red;
+    margin-right: 10px;
+}
+.bottom-img3{
+    float: left;
+    width: 270px;
+    
+    padding-top: 70px;
+    height: 150px;
+    background-color: yellowgreen;
+    margin-right: 10px;
+}
+.bottom-img4{
+    width: 270px;
+    height: 150px;
+    background-color: violet;
+    padding-top: 70px;
+    float: right;
+}
+.footer-container{
+    width: 1170px;
+    height: 295px;
+    background-color: teal;
+}
+
+.final-footer-line{
+    width: 1170px;
+    height: 45px;
+    background-color: red;
+}
